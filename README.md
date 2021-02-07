@@ -1,3 +1,3 @@
 # training360-szoftverarchitekturak
 
-![] (NoSQL.png)
+![Első kép] (NoSQL.png)
